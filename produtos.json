@@ -1,0 +1,98 @@
+[
+    {
+        "produto": "arroz",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "feijao",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "macarrão",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "manteiga",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "sal",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "açúcar",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "café",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "leite",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "biscoito",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "suco",
+        "categoria": "alimentos"
+    },
+    {
+        "produto": "sabão em pó",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "amaciante de roupas",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "detergente",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "pinho",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "pano de chão",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "esponja",
+        "categoria": "limpeza"
+    },
+    {
+        "produto": "sabonete",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "shampoo",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "condicionador",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "creme dental",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "escova de dentes",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "desodorante",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "barbeador",
+        "categoria": "higiene"
+    },
+    {
+        "produto": "sabonete líquido",
+        "categoria": "higiene"
+    }
+]
